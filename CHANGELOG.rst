@@ -2,6 +2,10 @@
 Changelog for package rplidar_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Unreleased
+------------------
+* Added code to shutdown node if LIDAR unresponsive
+
 1.10.0 (2019-02-22)
 ------------------
 * Update RPLIDAR SDK to 1.10.0

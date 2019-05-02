@@ -348,6 +348,11 @@ int main(int argc, char * argv[]) {
                              frame_id);
             }
         }
+        else
+        {            
+            ROS_ERROR("LIDAR Error: %08x! shutting down node", op_result);
+            ros::shutdown();
+        }
 
         ros::spinOnce();
     }
