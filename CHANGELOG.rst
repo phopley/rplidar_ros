@@ -2,8 +2,8 @@
 Changelog for package rplidar_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Unreleased
-------------------
+1.10.1 PH Forked (2019-05-02)
+-----------------------------
 * Added code to shutdown node if LIDAR unresponsive
 
 1.10.0 (2019-02-22)
